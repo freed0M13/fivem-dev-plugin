@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "fivem-dev",
   "owner": {
-    "name": "melih",
+    "name": "freed0M13",
     "email": ""
   },
   "metadata": {
@@ -12,25 +12,15 @@
   "plugins": [
     {
       "name": "fivem-dev",
-      "source": ".",
-      "description": "FiveM development orchestrator for QBox, QBCore, and ESX frameworks. Dynamically fetches natives, framework APIs, and guides to assets. Supports Lua and NUI (JavaScript/TypeScript).",
+      "source": "./",
+      "description": "FiveM development orchestrator for QBox, QBCore, and ESX frameworks.",
       "category": "development",
       "version": "1.0.0",
-      "tags": [
-        "fivem",
-        "gta5",
-        "lua",
-        "qbox",
-        "qbcore",
-        "esx",
-        "gamedev",
-        "nui",
-        "roleplay"
-      ],
+      "tags": ["fivem", "gta5", "lua", "qbox", "qbcore", "esx", "gamedev", "nui", "roleplay"],
       "author": {
-        "name": "melih"
+        "name": "freed0M13"
       },
-      "homepage": "https://github.com/melih/fivem-dev-plugin"
+      "homepage": "https://github.com/freed0M13/fivem-dev-plugin"
     }
   ]
 }
